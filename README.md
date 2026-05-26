@@ -13,7 +13,7 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PanagiotisLivadiotis) 
+[![Revolut](https://img.shields.io/badge/%20Revolut-0077B5?style=for-the-badge&logo=revolut&logoColor=white)](https://revolut.me/panagiotis_livadiotis)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
